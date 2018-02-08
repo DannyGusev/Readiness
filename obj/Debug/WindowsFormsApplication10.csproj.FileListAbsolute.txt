@@ -1,0 +1,129 @@
+c:\users\123\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+c:\users\123\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+c:\users\123\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+c:\users\123\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+c:\users\123\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+c:\users\123\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+c:\users\123\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+c:\users\123\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+c:\users\123\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form2.resources
+c:\users\123\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+c:\users\123\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form3.resources
+C:\Users\dgusevx\Downloads\readiness\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\dgusevx\Downloads\readiness\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\dgusevx\Downloads\readiness\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\dgusevx\Downloads\readiness\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\dgusevx\Downloads\readiness\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\dgusevx\Downloads\readiness\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\dgusevx\Downloads\readiness\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\dgusevx\Downloads\readiness\obj\Debug\WindowsFormsApplication10.Form2.resources
+C:\Users\dgusevx\Downloads\readiness\obj\Debug\WindowsFormsApplication10.Form3.resources
+C:\Users\dgusevx\Downloads\readiness\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\dgusevx\Downloads\readiness\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+F:\My Project\readiness new-20170116T155629Z\readiness new\bin\Debug\WindowsFormsApplication10.exe.config
+F:\My Project\readiness new-20170116T155629Z\readiness new\obj\Debug\WindowsFormsApplication10.exe
+F:\My Project\readiness new-20170116T155629Z\readiness new\obj\Debug\WindowsFormsApplication10.pdb
+F:\My Project\readiness new-20170116T155629Z\readiness new\bin\Debug\WindowsFormsApplication10.exe
+F:\My Project\readiness new-20170116T155629Z\readiness new\bin\Debug\WindowsFormsApplication10.pdb
+F:\My Project\readiness new-20170116T155629Z\readiness new\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+F:\My Project\readiness new-20170116T155629Z\readiness new\obj\Debug\WindowsFormsApplication10.Form1.resources
+F:\My Project\readiness new-20170116T155629Z\readiness new\obj\Debug\WindowsFormsApplication10.Form2.resources
+F:\My Project\readiness new-20170116T155629Z\readiness new\obj\Debug\WindowsFormsApplication10.Form3.resources
+F:\My Project\readiness new-20170116T155629Z\readiness new\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+F:\My Project\readiness new-20170116T155629Z\readiness new\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+F:\My Project\readiness new-20170116T155629Z\readiness new\obj\Debug\WindowsFormsApplication10.Form4.resources
+C:\Users\dgusevx\Downloads\readiness new-20170117T092836Z\readiness new\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\dgusevx\Downloads\readiness new-20170117T092836Z\readiness new\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\dgusevx\Downloads\readiness new-20170117T092836Z\readiness new\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\dgusevx\Downloads\readiness new-20170117T092836Z\readiness new\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\dgusevx\Downloads\readiness new-20170117T092836Z\readiness new\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\dgusevx\Downloads\readiness new-20170117T092836Z\readiness new\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\dgusevx\Downloads\readiness new-20170117T092836Z\readiness new\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\dgusevx\Downloads\readiness new-20170117T092836Z\readiness new\obj\Debug\WindowsFormsApplication10.Form2.resources
+C:\Users\dgusevx\Downloads\readiness new-20170117T092836Z\readiness new\obj\Debug\WindowsFormsApplication10.Form3.resources
+C:\Users\dgusevx\Downloads\readiness new-20170117T092836Z\readiness new\obj\Debug\WindowsFormsApplication10.Form4.resources
+C:\Users\dgusevx\Downloads\readiness new-20170117T092836Z\readiness new\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\dgusevx\Downloads\readiness new-20170117T092836Z\readiness new\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\dgusevx\Downloads\readiness new-20170117T092836Z\readiness new\obj\Debug\WindowsFormsApplication10.csproj.ResolveComReference.cache
+C:\Users\dgusevx\Downloads\readiness new-20170122T121241Z\readiness new\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\dgusevx\Downloads\readiness new-20170122T121241Z\readiness new\obj\Debug\WindowsFormsApplication10.csproj.ResolveComReference.cache
+C:\Users\dgusevx\Downloads\readiness new-20170122T121241Z\readiness new\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\dgusevx\Downloads\readiness new-20170122T121241Z\readiness new\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\dgusevx\Downloads\readiness new-20170122T121241Z\readiness new\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\dgusevx\Downloads\readiness new-20170122T121241Z\readiness new\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\dgusevx\Downloads\readiness new-20170122T121241Z\readiness new\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\dgusevx\Downloads\readiness new-20170122T121241Z\readiness new\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\dgusevx\Downloads\readiness new-20170122T121241Z\readiness new\obj\Debug\WindowsFormsApplication10.Form2.resources
+C:\Users\dgusevx\Downloads\readiness new-20170122T121241Z\readiness new\obj\Debug\WindowsFormsApplication10.Form3.resources
+C:\Users\dgusevx\Downloads\readiness new-20170122T121241Z\readiness new\obj\Debug\WindowsFormsApplication10.Form4.resources
+C:\Users\dgusevx\Downloads\readiness new-20170122T121241Z\readiness new\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\dgusevx\Downloads\readiness new-20170122T121241Z\readiness new\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+F:\myproject\repository.xbmc-israel-1.0.4\readiness new\bin\Debug\WindowsFormsApplication10.exe.config
+F:\myproject\repository.xbmc-israel-1.0.4\readiness new\obj\Debug\WindowsFormsApplication10.csproj.ResolveComReference.cache
+F:\myproject\repository.xbmc-israel-1.0.4\readiness new\obj\Debug\WindowsFormsApplication10.pdb
+F:\myproject\repository.xbmc-israel-1.0.4\readiness new\bin\Debug\WindowsFormsApplication10.exe
+F:\myproject\repository.xbmc-israel-1.0.4\readiness new\bin\Debug\WindowsFormsApplication10.pdb
+F:\myproject\repository.xbmc-israel-1.0.4\readiness new\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+F:\myproject\repository.xbmc-israel-1.0.4\readiness new\obj\Debug\WindowsFormsApplication10.Form3.resources
+F:\myproject\repository.xbmc-israel-1.0.4\readiness new\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+F:\myproject\repository.xbmc-israel-1.0.4\readiness new\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+F:\myproject\repository.xbmc-israel-1.0.4\readiness new\obj\Debug\WindowsFormsApplication10.exe
+F:\myproject\repository.xbmc-israel-1.0.4\readiness new\obj\Debug\WindowsFormsApplication10.Main.resources
+F:\myproject\repository.xbmc-israel-1.0.4\readiness new\obj\Debug\WindowsFormsApplication10.Second.resources
+F:\myproject\repository.xbmc-israel-1.0.4\readiness new\obj\Debug\WindowsFormsApplication10.Frame.resources
+F:\My Project\readiness new\bin\Debug\WindowsFormsApplication10.exe.config
+F:\My Project\readiness new\obj\Debug\WindowsFormsApplication10.csproj.ResolveComReference.cache
+F:\My Project\readiness new\obj\Debug\WindowsFormsApplication10.exe
+F:\My Project\readiness new\obj\Debug\WindowsFormsApplication10.pdb
+F:\My Project\readiness new\bin\Debug\WindowsFormsApplication10.exe
+F:\My Project\readiness new\bin\Debug\WindowsFormsApplication10.pdb
+F:\My Project\readiness new\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+F:\My Project\readiness new\obj\Debug\WindowsFormsApplication10.Main.resources
+F:\My Project\readiness new\obj\Debug\WindowsFormsApplication10.Frame.resources
+F:\My Project\readiness new\obj\Debug\WindowsFormsApplication10.Second.resources
+F:\My Project\readiness new\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+F:\My Project\readiness new\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+F:\My Project\readiness new\obj\Debug\WindowsFormsApplication10.Cart.resources
+F:\My Project\readiness new\obj\Debug\WindowsFormsApplication10.CCC.resources
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\obj\Debug\WindowsFormsApplication10.csproj.ResolveComReference.cache
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\obj\Debug\WindowsFormsApplication10.CCC.resources
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\obj\Debug\WindowsFormsApplication10.Cart.resources
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\obj\Debug\WindowsFormsApplication10.Main.resources
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\obj\Debug\WindowsFormsApplication10.Frame.resources
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\obj\Debug\WindowsFormsApplication10.Second.resources
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\dgusevx\Downloads\readiness new-20170205T092828Z\readiness new\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+F:\My Project\readiness 20170205T152825Z\readiness new\bin\Debug\WindowsFormsApplication10.exe.config
+F:\My Project\readiness 20170205T152825Z\readiness new\obj\Debug\WindowsFormsApplication10.csproj.ResolveComReference.cache
+F:\My Project\readiness 20170205T152825Z\readiness new\obj\Debug\WindowsFormsApplication10.exe
+F:\My Project\readiness 20170205T152825Z\readiness new\obj\Debug\WindowsFormsApplication10.pdb
+F:\My Project\readiness 20170205T152825Z\readiness new\bin\Debug\WindowsFormsApplication10.exe
+F:\My Project\readiness 20170205T152825Z\readiness new\bin\Debug\WindowsFormsApplication10.pdb
+F:\My Project\readiness 20170205T152825Z\readiness new\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+F:\My Project\readiness 20170205T152825Z\readiness new\obj\Debug\WindowsFormsApplication10.CCC.resources
+F:\My Project\readiness 20170205T152825Z\readiness new\obj\Debug\WindowsFormsApplication10.Cart.resources
+F:\My Project\readiness 20170205T152825Z\readiness new\obj\Debug\WindowsFormsApplication10.Main.resources
+F:\My Project\readiness 20170205T152825Z\readiness new\obj\Debug\WindowsFormsApplication10.Frame.resources
+F:\My Project\readiness 20170205T152825Z\readiness new\obj\Debug\WindowsFormsApplication10.Second.resources
+F:\My Project\readiness 20170205T152825Z\readiness new\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+F:\My Project\readiness 20170205T152825Z\readiness new\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.csproj.ResolveComReference.cache
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.CCC.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.Cart.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.Main.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.Frame.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.Second.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache

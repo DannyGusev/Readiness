@@ -1,0 +1,13 @@
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\bin\Release\WindowsFormsApplication10.exe.config
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\bin\Release\WindowsFormsApplication10.exe
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\bin\Release\WindowsFormsApplication10.pdb
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Release\WindowsFormsApplication10.csproj.ResolveComReference.cache
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Release\WindowsFormsApplication10.CCC.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Release\WindowsFormsApplication10.Cart.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Release\WindowsFormsApplication10.Main.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Release\WindowsFormsApplication10.Frame.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Release\WindowsFormsApplication10.Second.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Release\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Release\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Release\WindowsFormsApplication10.exe
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Release\WindowsFormsApplication10.pdb

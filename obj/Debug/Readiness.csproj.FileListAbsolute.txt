@@ -1,0 +1,13 @@
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\Readiness.csproj.ResolveComReference.cache
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.Cart.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.Main.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.Frame.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\WindowsFormsApplication10.Second.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\Readiness.csproj.GenerateResource.Cache
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\bin\Debug\Readiness.exe.config
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\bin\Debug\Readiness.exe
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\bin\Debug\Readiness.pdb
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\Readiness.Properties.Resources.resources
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\Readiness.exe
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\Readiness.pdb
+C:\Users\dgusevx\Downloads\readiness new-20170206T063111Z\readiness new\obj\Debug\Readiness.csprojResolveAssemblyReference.cache
